@@ -52,6 +52,7 @@ The goal is to identify environmental factors influencing global temperature cha
 * Feature Importance
 * Prediction Graphs
 
+pip install -r requirements.txt
 ---
 
 ## ✅ Results
