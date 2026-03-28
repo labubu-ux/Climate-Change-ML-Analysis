@@ -15,6 +15,8 @@ The goal is to identify environmental factors influencing global temperature cha
 * Train Machine Learning models
 * Predict temperature variations
 
+## Research Objective
+This project explores patterns and predictive modeling techniques to understand real-world phenomena using data-driven approaches.
 ---
 
 ## 🛠️ Tools & Technologies
