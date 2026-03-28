@@ -61,6 +61,24 @@ pip install -r requirements.txt
 
 The Random Forest model achieved strong prediction performance and identified CO₂ emissions as the most influential feature affecting temperature trends.
 
+Models Used:
+- Linear Regression
+- Random Forest Regressor
+
+### Model Performance
+
+| Model | R² Score |
+|------|---------|
+| Linear Regression | 0.006 |
+| Random Forest | -0.07 |
+
+Mean Squared Error: 74.16
+
+### Key Insights
+- Climate temperature prediction shows high variability.
+- Linear Regression performed slightly better than Random Forest.
+- Results highlight the complexity of long-term climate prediction problems.
+
 ## 👩‍💻 Author
 
 **Tanya Sarwan**
